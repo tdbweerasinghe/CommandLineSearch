@@ -1,5 +1,3 @@
-# CommandLineSearch
-
 ## Introduction
 This project is a python command-line search application.
 
