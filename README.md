@@ -8,4 +8,4 @@ This project is a python command-line search application.
 Run the setup.py in the project folder.
 
 ## Testing
-* No testing framework is used for this 
+* doctest library used 
